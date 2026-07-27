@@ -65,8 +65,8 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
 
 ## 📑 Sumário
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Demonstração](#-demonstração)
+- [Sobre o projeto](#sobre-o-projeto)
+- [Demonstração](#demonstração)
 - [Funcionalidades](#-funcionalidades)
 - [Como executar](#-como-executar)
 - [Variáveis de ambiente](#-variáveis-de-ambiente)
@@ -178,12 +178,9 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 ## 👤 Autor
 
-<div align="center">
-
 **Adriano Leite da Silva**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</div>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/adrianoleitedasilva/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoleitedasilva/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianoleitedasilva)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry)
