@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 📦 NOME_DO_PROJETO
 
@@ -20,14 +20,6 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
 ![Linguagem principal](https://img.shields.io/github/languages/top/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
 ![Quantidade de linguagens](https://img.shields.io/github/languages/count/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
 ![Contribuidores](https://img.shields.io/github/contributors/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
-
-<!-- ===================== LINHAS DE CÓDIGO E ARQUIVOS =====================
-     shields.io NÃO tem endpoint nativo para "linhas de código" ou "nº de arquivos".
-     O serviço tokei.rs preenche essa lacuna (não segue o estilo for-the-badge, mas é o padrão da comunidade). -->
-
-![Linhas de código](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=code)
-![Total de linhas](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=lines)
-![Arquivos](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=files)
 
 <!-- ===================== TECNOLOGIAS DO PROJETO =====================
      Badges estáticos vindos do catálogo: https://github.com/adrianoleitedasilva/MarkdownBadges
@@ -59,7 +51,7 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
 
 > 🔎 Catálogo completo de badges (IA, bancos de dados, frameworks, redes sociais, IDEs, etc.): [MarkdownBadges](https://github.com/adrianoleitedasilva/MarkdownBadges)
 
-</div>
+
 
 ---
 
