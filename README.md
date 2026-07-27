@@ -26,6 +26,7 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
      Apague as que não se aplicam e adicione as suas. -->
 <!-- Badge "logo" do nome do projeto — troque o texto após o "-" e a cor (azul aqui) -->
 ![TemplateReadMe](https://img.shields.io/badge/TemplateReadMe-000?style=for-the-badge&logo=github&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
