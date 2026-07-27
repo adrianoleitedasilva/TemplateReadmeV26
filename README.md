@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Badge "logo" do nome do projeto — troque o texto após o "-" e a cor (azul aqui) -->
-![Nome do Projeto](https://img.shields.io/badge/Nome_do_Projeto-2F81F7?style=for-the-badge&logo=github&logoColor=white)
-
 # 📦 NOME_DO_PROJETO
 
 Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele serve.
@@ -11,31 +8,32 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
      Dinâmicos via shields.io — trocam sozinhos conforme o repo muda.
      Troque USUARIO/REPOSITORIO pelo seu usuário e nome do repo. -->
 
-![Estrelas](https://img.shields.io/github/stars/USUARIO/REPOSITORIO?style=for-the-badge&logo=github&color=FFD700&logoColor=white)
-![Forks](https://img.shields.io/github/forks/USUARIO/REPOSITORIO?style=for-the-badge&logo=github&color=blue&logoColor=white)
-![Issues abertas](https://img.shields.io/github/issues/USUARIO/REPOSITORIO?style=for-the-badge&logo=github&color=red&logoColor=white)
-![Pull Requests](https://img.shields.io/github/issues-pr/USUARIO/REPOSITORIO?style=for-the-badge&logo=github&logoColor=white)
-![Último commit](https://img.shields.io/github/last-commit/USUARIO/REPOSITORIO?style=for-the-badge&logo=git&logoColor=white)
-![Licença](https://img.shields.io/github/license/USUARIO/REPOSITORIO?style=for-the-badge&color=2ea44f)
+![Estrelas](https://img.shields.io/github/stars/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&logo=github&color=FFD700&logoColor=white)
+![Forks](https://img.shields.io/github/forks/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&logo=github&color=blue&logoColor=white)
+![Issues abertas](https://img.shields.io/github/issues/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&logo=github&color=red&logoColor=white)
+![Pull Requests](https://img.shields.io/github/issues-pr/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&logo=github&logoColor=white)
+![Último commit](https://img.shields.io/github/last-commit/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&logo=git&logoColor=white)
+![Licença](https://img.shields.io/github/license/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&color=2ea44f)
 
-![Tamanho do repositório](https://img.shields.io/github/repo-size/USUARIO/REPOSITORIO?style=for-the-badge&color=orange&label=peso%20do%20projeto)
-![Tamanho do código](https://img.shields.io/github/languages/code-size/USUARIO/REPOSITORIO?style=for-the-badge)
-![Linguagem principal](https://img.shields.io/github/languages/top/USUARIO/REPOSITORIO?style=for-the-badge)
-![Quantidade de linguagens](https://img.shields.io/github/languages/count/USUARIO/REPOSITORIO?style=for-the-badge)
-![Contribuidores](https://img.shields.io/github/contributors/USUARIO/REPOSITORIO?style=for-the-badge)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge&color=orange&label=peso%20do%20projeto)
+![Tamanho do código](https://img.shields.io/github/languages/code-size/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
+![Linguagem principal](https://img.shields.io/github/languages/top/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
+![Quantidade de linguagens](https://img.shields.io/github/languages/count/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
+![Contribuidores](https://img.shields.io/github/contributors/adrianoleitedasilva/TemplateReadmeV26?style=for-the-badge)
 
 <!-- ===================== LINHAS DE CÓDIGO E ARQUIVOS =====================
      shields.io NÃO tem endpoint nativo para "linhas de código" ou "nº de arquivos".
      O serviço tokei.rs preenche essa lacuna (não segue o estilo for-the-badge, mas é o padrão da comunidade). -->
 
-![Linhas de código](https://tokei.rs/b1/github/USUARIO/REPOSITORIO?category=code)
-![Total de linhas](https://tokei.rs/b1/github/USUARIO/REPOSITORIO?category=lines)
-![Arquivos](https://tokei.rs/b1/github/USUARIO/REPOSITORIO?category=files)
+![Linhas de código](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=code)
+![Total de linhas](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=lines)
+![Arquivos](https://tokei.rs/b1/github/adrianoleitedasilva/TemplateReadmeV26?category=files)
 
 <!-- ===================== TECNOLOGIAS DO PROJETO =====================
      Badges estáticos vindos do catálogo: https://github.com/adrianoleitedasilva/MarkdownBadges
      Apague as que não se aplicam e adicione as suas. -->
-
+<!-- Badge "logo" do nome do projeto — troque o texto após o "-" e a cor (azul aqui) -->
+![TemplateReadMe](https://img.shields.io/badge/TemplateReadMe-000?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
