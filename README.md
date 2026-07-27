@@ -65,8 +65,8 @@ Uma frase curta e direta explicando **o que o projeto faz** e **para quem** ele 
 
 ## 📑 Sumário
 
-- [Sobre o projeto](#sobre-o-projeto)
-- [Demonstração](#demonstração)
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Demonstração](#d-emonstração)
 - [Funcionalidades](#-funcionalidades)
 - [Como executar](#-como-executar)
 - [Variáveis de ambiente](#-variáveis-de-ambiente)
